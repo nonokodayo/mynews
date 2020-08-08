@@ -12,4 +12,3 @@ class NewsController extends Controller
       return view('admin.news.create');
   }    
 }
-//aaaaa
